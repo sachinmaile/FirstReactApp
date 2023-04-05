@@ -6,11 +6,12 @@ import Timings from './Timings';
 import FirstReactJSPRoject from './FirstReactJSProject';
 import Calculator from './Calculator';
 import { Test } from './FirebaseDemo';
+import Users from './Users';
 
 function App() { 
   return (
     <div className='App'>
-      <Test/>
+      <Users/>
     </div>
   ) 
 }
